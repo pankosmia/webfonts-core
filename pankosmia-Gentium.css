@@ -6,7 +6,7 @@
   font-family: 'Pankosmia-Gentium';
   font-style: normal;
   font-weight: normal; /* 400 Normal (Regular) */
-  src: url(./Gentium/Gentium-Regular.woff2);
+  src: url(./gentium/Gentium-Regular.woff2);
   font-feature-settings: %%FONTFEATURES%%;
   -moz-font-font-feature-settings: %%FONTFEATURES%%;
   -webkit-font-feature-settings: %%FONTFEATURES%%;
@@ -17,7 +17,7 @@
   font-family: 'Pankosmia-Gentium';
   font-style: italic;
   font-weight: normal; /* 400 Normal (Regular) */
-  src: url(./Gentium/Gentium-Italic.woff2);
+  src: url(./gentium/Gentium-Italic.woff2);
   font-feature-settings: %%FONTFEATURES%%;
   -moz-font-font-feature-settings: %%FONTFEATURES%%;
   -webkit-font-feature-settings: %%FONTFEATURES%%;
@@ -28,7 +28,7 @@
   font-family: 'Pankosmia-Gentium';
   font-style: normal;
   font-weight: bold; /* 700 */
-  src: url(./Gentium/Gentium-Bold.woff2);
+  src: url(./gentium/Gentium-Bold.woff2);
   font-feature-settings: %%FONTFEATURES%%;
   -moz-font-font-feature-settings: %%FONTFEATURES%%;
   -webkit-font-feature-settings: %%FONTFEATURES%%;
@@ -39,7 +39,7 @@
   font-family: 'Pankosmia-Gentium';
   font-style: italic;
   font-weight: bold; /* 700 */
-  src: url(./Gentium/Gentium-BoldItalic.woff2);
+  src: url(./gentium/Gentium-BoldItalic.woff2);
   font-feature-settings: %%FONTFEATURES%%;
   -moz-font-font-feature-settings: %%FONTFEATURES%%;
   -webkit-font-feature-settings: %%FONTFEATURES%%;
